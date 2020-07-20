@@ -1,0 +1,6 @@
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\Factory\bin\Debug\Factory.exe.config
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\Factory\bin\Debug\Factory.exe
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\Factory\bin\Debug\Factory.pdb
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\Factory\obj\Debug\Factory.exe
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\Factory\obj\Debug\Factory.pdb
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
