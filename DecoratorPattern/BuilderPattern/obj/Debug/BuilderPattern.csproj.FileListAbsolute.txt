@@ -1,0 +1,6 @@
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb

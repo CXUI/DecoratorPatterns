@@ -122,9 +122,9 @@ namespace Factory
             //Robot car= APC._robot();
             //car.Print();
             AbstractFactory afp = new PeopleFactory(APC);
-            afp._robot();
+            Robot car= afp._robot();
             // Robot car = afc._robot();
-            // car.Print();
+              car.Print();
 
 
             //AbstractFactory afc = new ACFactory();
