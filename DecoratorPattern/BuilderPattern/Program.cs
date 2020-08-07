@@ -18,6 +18,7 @@ namespace BuilderPattern
             play.Construct(bulider);
 
             Robot robot = bulider.GetRobot();
+
             robot.Show();
             Console.ReadKey();
 

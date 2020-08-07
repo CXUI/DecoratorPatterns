@@ -1,0 +1,6 @@
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\CoreAudio\bin\Debug\CoreAudio.exe.config
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\CoreAudio\bin\Debug\CoreAudio.exe
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\CoreAudio\bin\Debug\CoreAudio.pdb
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\CoreAudio\obj\Debug\CoreAudio.csprojResolveAssemblyReference.cache
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\CoreAudio\obj\Debug\CoreAudio.exe
+C:\Users\cxh\Desktop\DecoratorPattern\DecoratorPattern\CoreAudio\obj\Debug\CoreAudio.pdb
